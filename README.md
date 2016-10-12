@@ -32,6 +32,10 @@ limitations under the License.
 
 ## Getting Started
 
+### Scratch Folder
+
+We have included a scratch folder which is excluded from Git version control.  Please use this folder to save your test files and scratch files so that they are not uploaded into the Git repo during commits.
+
 ### System Requirements
 
 ### API Versions
