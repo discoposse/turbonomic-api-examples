@@ -21,7 +21,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# **API Samples for Turbonomic using the legacy and new API 
+# API Samples for Turbonomic using the legacy and new API 
 
 ----
 
