@@ -1,0 +1,9 @@
+curl --data "groupName=AllWindowsVMs&seType=VirtualMachine&reportEnabled=False&xmlId=vmsByGuestName&expVal=.*Windows.*" http://USERNAME:PASSWORD@INSTANCEURL/vmturbo/api/groups
+
+curl --data "groupName=AllLinuxVMs&seType=VirtualMachine&reportEnabled=False&xmlId=vmsByGuestName&expVal=.*linux.*" http://USERNAME:PASSWORD@INSTANCEURL/vmturbo/api/groups
+
+curl --data "groupName=AllUbuntuVMs&seType=VirtualMachine&reportEnabled=False&xmlId=vmsByGuestName&expVal=.*ubuntu.*" http://USERNAME:PASSWORD@INSTANCEURL/vmturbo/api/groups
+
+curl --data "groupName=AllCentosVMs&seType=VirtualMachine&reportEnabled=False&xmlId=vmsByGuestName&expVal=.*centos.*" http://USERNAME:PASSWORD@INSTANCEURL/vmturbo/api/groups
+
+curl --data "groupName=AllWindowsServerVMs&seType=VirtualMachine&reportEnabled=False&xmlId=vmsByGuestName&expVal=.*Windows.*server.*" http://USERNAME:PASSWORD@INSTANCEURL/vmturbo/api/groups

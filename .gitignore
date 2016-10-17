@@ -3,6 +3,9 @@
 *.a
 *.so
 
+# Turbonomic config file (to be copied from sample)
+turbonomic.config
+
 # Folders
 _obj
 _test

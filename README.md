@@ -34,7 +34,11 @@ We have included a scratch folder which is excluded from Git version control.  P
 
 ### System Requirements
 
+You will need to have cURL for most of these examples.  Samples also require you to have the credentials for your Turbonomic instance, and the IP address or DNS hostname to access the API.
+
 ### API Versions
+
+Examples will use the traditional API and the new API.  Samples will indicate which API are being used.
 
 
 
